@@ -1,2 +1,2 @@
 # automacao-ia-n8n
-Automação de atendimento e consulta de Notas Fiscais de pedidos em rota utilizando n8n, IA e integrações externas.
+Projetos de Machine Learning com o objetivo de melhora nas habilidades técnicas utilizando Scikit Learn, Pytorch e Tensorflow.
